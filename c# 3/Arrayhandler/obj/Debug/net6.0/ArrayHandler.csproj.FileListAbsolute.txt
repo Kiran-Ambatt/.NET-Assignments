@@ -1,0 +1,15 @@
+F:\KIRAN@\.net project samples\ArrayHandler\bin\Debug\net6.0\ArrayHandler.exe
+F:\KIRAN@\.net project samples\ArrayHandler\bin\Debug\net6.0\ArrayHandler.deps.json
+F:\KIRAN@\.net project samples\ArrayHandler\bin\Debug\net6.0\ArrayHandler.runtimeconfig.json
+F:\KIRAN@\.net project samples\ArrayHandler\bin\Debug\net6.0\ArrayHandler.dll
+F:\KIRAN@\.net project samples\ArrayHandler\bin\Debug\net6.0\ArrayHandler.pdb
+F:\KIRAN@\.net project samples\ArrayHandler\obj\Debug\net6.0\ArrayHandler.csproj.AssemblyReference.cache
+F:\KIRAN@\.net project samples\ArrayHandler\obj\Debug\net6.0\ArrayHandler.GeneratedMSBuildEditorConfig.editorconfig
+F:\KIRAN@\.net project samples\ArrayHandler\obj\Debug\net6.0\ArrayHandler.AssemblyInfoInputs.cache
+F:\KIRAN@\.net project samples\ArrayHandler\obj\Debug\net6.0\ArrayHandler.AssemblyInfo.cs
+F:\KIRAN@\.net project samples\ArrayHandler\obj\Debug\net6.0\ArrayHandler.csproj.CoreCompileInputs.cache
+F:\KIRAN@\.net project samples\ArrayHandler\obj\Debug\net6.0\ArrayHandler.dll
+F:\KIRAN@\.net project samples\ArrayHandler\obj\Debug\net6.0\refint\ArrayHandler.dll
+F:\KIRAN@\.net project samples\ArrayHandler\obj\Debug\net6.0\ArrayHandler.pdb
+F:\KIRAN@\.net project samples\ArrayHandler\obj\Debug\net6.0\ArrayHandler.genruntimeconfig.cache
+F:\KIRAN@\.net project samples\ArrayHandler\obj\Debug\net6.0\ref\ArrayHandler.dll
